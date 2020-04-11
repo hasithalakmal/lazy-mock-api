@@ -78,12 +78,12 @@ public class MockApi1 {
           "      \"key\": \"school.fee.payment.period\",\n" +
           "      \"value\": \"monthly\",\n" +
           "      \"isActive\": true,\n" +
-          "      \"amount\": 10\n" +
+          "      \"amount\": 10.00\n" +
           "    },\n" +
           "    {\n" +
           "      \"id\": 841,\n" +
           "      \"key\": \"sport.club.payment.period\",\n" +
-          "      \"value\": \"annualy\",\n" +
+          "      \"value\": \"annually\",\n" +
           "      \"isActive\": false,\n" +
           "      \"amount\": 20.85,\n" +
           "      \"paymentMethods\": [\n" +
